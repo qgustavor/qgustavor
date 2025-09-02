@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm from Brazil, currently working on my blog and looking for help on MEGAJS! *Available for hire!*
+I'm from Brazil, currently working on my blog and looking for help on MEGAJS! [*Available for hire!*](https://signal.me/#eu/IRvCPi0rPBIpa3MCO7I4ixdDXcL44VAumqdfnGjtWDvgccTRV-lD66kvycc1PQpZ)
 
 <img align="right" alt="" src="https://github-readme-stats.vercel.app/api?username=qgustavor&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 
