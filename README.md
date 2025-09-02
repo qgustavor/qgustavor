@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm from Brazil, currently working on my blog and looking for help on MEGAJS!
+I'm from Brazil, currently working on my blog and looking for help on MEGAJS! *Available for hire!*
 
-<img align="right" alt="" src="https://github-readme-stats.vercel.app/api?username=qgustavor&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+<img align="right" alt="" src="https://github-readme-stats.vercel.app/api?username=qgustavor&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 
 ![TypeScript](https://img.shields.io/badge/typescript-181717.svg?style=for-the-badge&logo=typescript&logoColor=fff) ![JavaScript](https://img.shields.io/badge/javascript-181717.svg?style=for-the-badge&logo=javascript&logoColor=fff) ![PHP](https://img.shields.io/badge/php-181717.svg?style=for-the-badge&logo=php&logoColor=fff)  
 ![NodeJS](https://img.shields.io/badge/node.js-181717.svg?style=for-the-badge&logo=node.js&logoColor=fff) ![Deno](https://img.shields.io/badge/deno-181717.svg?style=for-the-badge&logo=deno&logoColor=fff) ![Bun](https://img.shields.io/badge/bun-181717.svg?style=for-the-badge&logo=bun&logoColor=fff) ![Apache](https://img.shields.io/badge/apache-181717.svg?style=for-the-badge&logo=apache&logoColor=fff)   
