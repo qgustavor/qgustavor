@@ -2,8 +2,6 @@
 
 I'm from Brazil, currently working on my blog and looking for help on MEGAJS! [*Available for hire!*](https://signal.me/#eu/IRvCPi0rPBIpa3MCO7I4ixdDXcL44VAumqdfnGjtWDvgccTRV-lD66kvycc1PQpZ)
 
-<picture><source media="(prefers-color-scheme:dark)" srcset="https://github-readme-stats.vercel.app/api?username=qgustavor&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><img align="right" alt="" src="https://github-readme-stats.vercel.app/api?username=qgustavor&theme=vue&hide_border=false&include_all_commits=true&count_private=true"></picture>
-
 <picture><source media="(prefers-color-scheme:dark)" srcset="https://img.shields.io/badge/typescript-181717.svg?style=for-the-badge&logo=typescript&logoColor=fff"><img alt="t" src="https://img.shields.io/badge/typescript-f8f8f8.svg?style=for-the-badge&logo=typescript&logoColor=000"></picture>
  <picture><source media="(prefers-color-scheme:dark)" srcset="https://img.shields.io/badge/javascript-181717.svg?style=for-the-badge&logo=javascript&logoColor=fff"><img alt="t" src="https://img.shields.io/badge/javascript-f8f8f8.svg?style=for-the-badge&logo=javascript&logoColor=000"></picture>
  <picture><source media="(prefers-color-scheme:dark)" srcset="https://img.shields.io/badge/php-181717.svg?style=for-the-badge&logo=php&logoColor=fff"><img alt="P" src="https://img.shields.io/badge/php-f8f8f8.svg?style=for-the-badge&logo=php&logoColor=000"></picture>  
@@ -24,3 +22,7 @@ I'm from Brazil, currently working on my blog and looking for help on MEGAJS! [*
 <a href="https://ko-fi.com/qgustavor"><picture><source media="(prefers-color-scheme:dark)" srcset="https://img.shields.io/badge/Ko--fi-181717?style=for-the-badge&logo=ko-fi&logoColor=fff"><img alt="i" src="https://img.shields.io/badge/Ko--fi-f8f8f8.svg?style=for-the-badge&logo=ko-fi&logoColor=000"></picture></a>
 <a href="https://github.com/sponsors/qgustavor/"><picture><source media="(prefers-color-scheme:dark)" srcset="https://img.shields.io/badge/GitHub_Sponsors-181717?style=for-the-badge&logo=github&logoColor=fff"><img alt="s" src="https://img.shields.io/badge/GitHub_Sponsors-f8f8f8.svg?style=for-the-badge&logo=github&logoColor=000"></picture></a>
 <a href="https://ursal.zone/@gustavo/115131776760517015"><picture><source media="(prefers-color-scheme:dark)" srcset="https://img.shields.io/badge/Pix-181717?style=for-the-badge&logo=pix&logoColor=fff"><img alt="x" src="https://img.shields.io/badge/Pix-f8f8f8.svg?style=for-the-badge&logo=pix&logoColor=000"></picture></a>
+
+---
+
+By the way, since [GitHub broke the old feed](https://github.com/Gerrit0/old-github-feed/issues/20) I don't know who's forking my repositories. If you fork a repository of mine in order to fix or improve something, please send a PR otherwise I will not see it. Or find a way to get GitHub to restore the old feed without all that useless algoritmic clutter.
