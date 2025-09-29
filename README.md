@@ -21,7 +21,7 @@ I'm from Brazil, currently working on my blog and looking for help on MEGAJS! [*
 ### 🤝You can help me by donating
 <a href="https://ko-fi.com/qgustavor"><picture><source media="(prefers-color-scheme:dark)" srcset="https://img.shields.io/badge/Ko--fi-181717?style=for-the-badge&logo=ko-fi&logoColor=fff"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-f8f8f8.svg?style=for-the-badge&logo=ko-fi&logoColor=000"></picture></a>
 <a href="https://github.com/sponsors/qgustavor/"><picture><source media="(prefers-color-scheme:dark)" srcset="https://img.shields.io/badge/GitHub_Sponsors-181717?style=for-the-badge&logo=github&logoColor=fff"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/GitHub_Sponsors-f8f8f8.svg?style=for-the-badge&logo=github&logoColor=000"></picture></a>
-<a href="https://ursal.zone/@gustavo/115131776760517015"><picture><source media="(prefers-color-scheme:dark)" srcset="https://img.shields.io/badge/Pix-181717?style=for-the-badge&logo=pix&logoColor=fff"><img alt="Pix" src="https://img.shields.io/badge/Pix-f8f8f8.svg?style=for-the-badge&logo=pix&logoColor=000"></picture></a>
+<a href="https://qgustavor.tk/pt/pix"><picture><source media="(prefers-color-scheme:dark)" srcset="https://img.shields.io/badge/Pix-181717?style=for-the-badge&logo=pix&logoColor=fff"><img alt="Pix" src="https://img.shields.io/badge/Pix-f8f8f8.svg?style=for-the-badge&logo=pix&logoColor=000"></picture></a>
 
 ---
 
